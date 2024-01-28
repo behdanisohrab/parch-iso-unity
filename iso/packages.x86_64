@@ -139,13 +139,15 @@ networkmanager
 android-file-transfer
 
 #Desktop
+unity-meta
+sddm
 
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-ms-fonts
+vazirmatn-fonts
 firefox
 
 #parchlinuxstuff
